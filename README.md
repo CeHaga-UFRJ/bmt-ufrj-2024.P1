@@ -1,2 +1,3 @@
-# bmt-ufrj-2024.P1
-Repository for Text Mining and Retrieval class' assignments at PESC during 2024.P1
+# Busca e Mineração de Dados - PESC
+
+Para executar basta rodar o notebook, podendo executar pelo Google Colab.
